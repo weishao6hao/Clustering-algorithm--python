@@ -2,4 +2,4 @@
 
 An implementation of clustering algorithms in python:
 
-SCDOT
+- SCDOT
